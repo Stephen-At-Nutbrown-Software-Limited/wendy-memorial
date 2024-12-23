@@ -1,0 +1,122 @@
+# Site settings
+baseURL = "https://example.com"
+languageCode = "en-US"
+title = "Adrienne Wendy Nutbrown; 26th July 1962 - 2nd October 2024"
+theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
+disableHugoGeneratorInject = true
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Copyright
+copyright = "Created with love."
+
+[services]
+  [services.googleAnalytics]
+    # Enter your tracking code to enable Google Analytics
+    ID = ""
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Stephen Nutbrown"
+  description = "Memorial in memory of Adrienne Wendy Nutbrown; 26th July 1962 - 2nd October 2024."
+  shareImage = "images/background.jpg"
+  twitterHandle = "onepagelove"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+  # Links
+  #
+  # Links List #1
+  [[params.links]]
+    [params.links.list1]
+      heading = "Photo ALbums"
+
+      [[params.links.list1.link]]
+        text = "With Family"
+        url = "https://photos.app.goo.gl/8fjoFLmCs5FVYNZe6"
+        new_tab = true
+
+      [[params.links.list1.link]]
+      text = "With Friends"
+      url = "https://photos.app.goo.gl/GocS5avSLBXuLbFu8"
+      new_tab = true
+
+      [[params.links.list1.link]]
+        text = "Travelling"
+        url = "https://photos.app.goo.gl/asutjVoWc5iQyJuP6"
+        new_tab = true
+
+      [[params.links.list1.link]]
+        text = "Singing"
+        url = "https://photos.app.goo.gl/TYHkSJU4wh4SJHdGA"
+        new_tab = true
+
+      [[params.links.list1.link]]
+        text = "Younger self"
+        url = "https://photos.app.goo.gl/54tv6isnHMqvVn7R8"
+        new_tab = true
+
+  # Links List #2
+  [[params.links]]
+    [params.links.list2]
+      heading = "Guestbook"
+
+      [[params.links.list2.link]]
+        text = "View messages"
+        url = "#"
+
+      [[params.links.list2.link]]
+        text = "Leave a message"
+        url = "#"
+
+#  # Links List #3
+#  [[params.links]]
+#    [params.links.list3]
+#      heading = "Network"
+#
+#      [[params.links.list3.link]]
+#        text = "Link One"
+#        url = "#"
+#
+#      [[params.links.list3.link]]
+#        text = "Link Two"
+#        url = "#"
+#
+#      [[params.links.list3.link]]
+#        text = "Link Three"
+#        url = "#"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
+
+[server]
+[[server.headers]]
+    for = '/**'
+    [server.headers.values]
+      Content-Security-Policy = "default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' https://dummyimage.com"
+      Referrer-Policy = 'strict-origin-when-cross-origin'
+      X-Content-Type-Options = 'nosniff'
+      X-Frame-Options = 'DENY'
+      X-XSS-Protection = '1; mode=block'
+
+[deployment]
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "prod"
+URL = "s3://wendy.nutbrown.io?region=eu-west-2"
