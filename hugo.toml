@@ -73,15 +73,15 @@ copyright = "Created with love."
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Guestbook"
+      heading = "Tribute"
 
       [[params.links.list2.link]]
-        text = "View messages"
-        url = "#"
+        text = "Donate to St Luke's"
+        url = "https://www.stlukestribute.org.uk/initiatedonation/?firstName=Wendy&lastName=Nutbrown&imageUrl=/media/3731/mum.png&donationsFolderId=31267"
 
       [[params.links.list2.link]]
-        text = "Leave a message"
-        url = "#"
+        text = "Share a thought"
+        url = "https://www.stlukestribute.org.uk/add-thought/?firstName=Wendy&lastName=Nutbrown&imageUrl=/media/3731/mum.png&tfid=31268"
 
 #  # Links List #3
 #  [[params.links]]
