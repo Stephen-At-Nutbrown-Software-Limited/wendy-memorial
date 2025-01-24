@@ -46,9 +46,9 @@ copyright = "Created with love."
       heading = "Photo ALbums"
 
       [[params.links.list1.link]]
-      text = "Celebration of Life"
-      url = "https://photos.app.goo.gl/eKaEPVZuHwrqRPLs6"
-      new_tab = true
+        text = "Celebration album"
+        url = "https://photos.app.goo.gl/eKaEPVZuHwrqRPLs6"
+        new_tab = true
 
       [[params.links.list1.link]]
         text = "With Family"
@@ -56,9 +56,9 @@ copyright = "Created with love."
         new_tab = true
 
       [[params.links.list1.link]]
-      text = "With Friends"
-      url = "https://photos.app.goo.gl/GocS5avSLBXuLbFu8"
-      new_tab = true
+        text = "With Friends"
+        url = "https://photos.app.goo.gl/GocS5avSLBXuLbFu8"
+        new_tab = true
 
       [[params.links.list1.link]]
         text = "Travelling"
@@ -91,22 +91,23 @@ copyright = "Created with love."
         url = "https://www.stlukestribute.org.uk/add-thought/?firstName=Wendy&lastName=Nutbrown&imageUrl=/media/3731/mum.png&tfid=31268"
         new_tab = true
 
-#  # Links List #3
-#  [[params.links]]
-#    [params.links.list3]
-#      heading = "Network"
-#
-#      [[params.links.list3.link]]
-#        text = "Link One"
-#        url = "#"
-#
-#      [[params.links.list3.link]]
-#        text = "Link Two"
-#        url = "#"
-#
-#      [[params.links.list3.link]]
-#        text = "Link Three"
-#        url = "#"
+  # Links List #3
+  [[params.links]]
+    [params.links.list3]
+      heading = "Celebration of Life"
+
+      [[params.links.list3.link]]
+        text = "Monologue"
+        url = "/monologue/wendy-monologue.pdf"
+
+      [[params.links.list3.link]]
+        text = "Celebration videos"
+        url = "https://www.youtube.com/playlist?list=PLYkDaaZiN_GIXmMJ9_RKuS_qovecTVMKe"
+
+
+      [[params.links.list3.link]]
+        text = "Celebration playlist"
+        url = "https://open.spotify.com/playlist/3h67gCvLA66mUs2kvVtgms?si=ccb73db8f2094588"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
