@@ -46,6 +46,11 @@ copyright = "Created with love."
       heading = "Photo ALbums"
 
       [[params.links.list1.link]]
+      text = "Celebration of Life"
+      url = "https://photos.app.goo.gl/eKaEPVZuHwrqRPLs6"
+      new_tab = true
+
+      [[params.links.list1.link]]
         text = "With Family"
         url = "https://photos.app.goo.gl/8fjoFLmCs5FVYNZe6"
         new_tab = true
