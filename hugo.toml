@@ -43,7 +43,7 @@ copyright = "Created with love."
   # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Photo ALbums"
+      heading = "Photo Albums"
 
       [[params.links.list1.link]]
         text = "Celebration album"
