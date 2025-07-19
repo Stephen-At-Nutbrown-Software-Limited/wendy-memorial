@@ -9,5 +9,5 @@ This page is for the memory of Wendy; it provides links to several photo albums 
 
 Wendy shared her love with so many people who she met, befriended, and cherished on her journey. She was the proud Mum of her two boys, James and Stephen, her two bonus girls, Gabi and Grace, and loving wife to her husband, Andrew. 
 
-Wendy's passions were people, food and music.  She travelled around the world and visited Rio; she scuba dived in the Maldives, rode a motorbike to Italy and toured around France and Germany. She crossed the Atlantic and saw whales in their natural habitat. She was a member in several choirs, notably Albion and the [Sheffield Cancer Choir](https://sheffieldcancerchoir.org.uk/), and through those endevours made many good friends. 
+Wendy's passions were people, food and music.  She travelled around the world and visited Rio; she scuba dived in the Maldives, rode a motorbike to Italy and toured around France and Germany. She crossed the Atlantic and saw whales in their natural habitat. She was a member in several choirs, notably Albion and the [Sheffield Cancer Choir](https://sheffieldcancerchoir.org.uk/), and through those endeavours made many good friends. 
 
