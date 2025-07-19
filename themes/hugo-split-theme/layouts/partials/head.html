@@ -37,6 +37,9 @@
   <link rel="stylesheet" href="{{ "css/style.css" | absURL }}" type="text/css" media="screen" />
 {{ end }}
 
+<!-- Custom Scripts -->
+<script src="{{ "js/birthday.js" | absURL }}"></script>
+
 <!-- Google Analytics -->
 {{ if and (.Site.Config.Services.GoogleAnalytics.ID) (not hugo.IsDevelopment) }}
   {{ template "_internal/google_analytics.html" . }}
