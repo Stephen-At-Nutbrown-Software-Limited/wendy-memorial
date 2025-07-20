@@ -7,13 +7,16 @@
       "<p>More photos are available, <a href='#' id='extra-album-link'>see them here</a></p>" +
       "<p><em>If you can, please <a href='https://www.stlukestribute.org.uk/initiatedonation/?firstName=Wendy&lastName=Nutbrown&imageUrl=/media/3731/mum.png&donationsFolderId=31267'>consider a donation to St Lukes in memory of Wendy.</a></em></p>";
     announcement.style.position = 'fixed';
-    announcement.style.bottom = '0';
+    announcement.style.top = '0';
     announcement.style.left = '0';
     announcement.style.width = '100%';
     announcement.style.background = '#ffd';
     announcement.style.padding = '1em';
     announcement.style.textAlign = 'center';
     announcement.style.zIndex = '1000';
+    announcement.querySelectorAll('a').forEach(function(link) {
+      link.style.textDecoration = 'underline';
+    });
     document.body.appendChild(announcement);
   }
 
