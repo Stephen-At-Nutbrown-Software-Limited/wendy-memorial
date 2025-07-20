@@ -14,6 +14,9 @@
     announcement.style.padding = '1em';
     announcement.style.textAlign = 'center';
     announcement.style.zIndex = '1000';
+    announcement.querySelectorAll('a').forEach(function(link) {
+      link.style.textDecoration = 'underline';
+    });
     document.body.appendChild(announcement);
   }
 
