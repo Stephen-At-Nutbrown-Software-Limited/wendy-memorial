@@ -38,7 +38,7 @@
 {{ end }}
 
 <!-- Custom Scripts -->
-<script src="{{ "js/birthday.js" | absURL }}"></script>
+<script src="{{ "js/birthday.js" | relURL }}"></script>
 
 <!-- Google Analytics -->
 {{ if and (.Site.Config.Services.GoogleAnalytics.ID) (not hugo.IsDevelopment) }}
