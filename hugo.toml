@@ -75,6 +75,11 @@ copyright = "Created with love."
         url = "https://photos.app.goo.gl/54tv6isnHMqvVn7R8"
         new_tab = true
 
+      [[params.links.list1.link]]
+        text = "Birthday special"
+        url = "https://photos.app.goo.gl/x6tC2n7D4ggVxqWB7"
+        new_tab = true
+
   # Links List #2
   [[params.links]]
     [params.links.list2]
