@@ -9,9 +9,10 @@
     announcement.style.position = 'fixed';
     announcement.style.top = '0';
     announcement.style.left = '0';
-    announcement.style.width = '100%';
+    announcement.style.right = '0';
     announcement.style.background = '#ffd';
     announcement.style.padding = '1em';
+    announcement.style.boxSizing = 'border-box';
     announcement.style.textAlign = 'center';
     announcement.style.zIndex = '1000';
     announcement.querySelectorAll('a').forEach(function(link) {
