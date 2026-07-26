@@ -87,13 +87,13 @@ copyright = "Created with love."
 
       [[params.links.list2.link]]
         text = "Donate to St Luke's"
-        url = "https://www.stlukestribute.org.uk/initiatedonation/?firstName=Wendy&lastName=Nutbrown&imageUrl=/media/3731/mum.png&donationsFolderId=31267"
+        url = "https://stlukestribute.org.uk/pages/wendy-nutbrown/"
         new_tab = true
 
 
       [[params.links.list2.link]]
         text = "Share a thought"
-        url = "https://www.stlukestribute.org.uk/add-thought/?firstName=Wendy&lastName=Nutbrown&imageUrl=/media/3731/mum.png&tfid=31268"
+        url = "https://stlukestribute.org.uk/add-thought/?fundId=70792"
         new_tab = true
 
   # Links List #3

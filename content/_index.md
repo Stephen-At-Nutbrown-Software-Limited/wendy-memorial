@@ -5,7 +5,7 @@ tagline = "Mum, Daughter, Grandma, Sister, Wife & Friend."
 
 26th July 1962 - 2nd October 2024 
 
-This page is for the memory of Wendy; it provides links to several photo albums to share with friends and family, a link to [Wendy's celebration of life videos](https://www.youtube.com/playlist?list=PLYkDaaZiN_GIXmMJ9_RKuS_qovecTVMKe), a lovely [monologue written by Andy](/monologue/wendy-monologue.pdf), as well as a link to a tribute page to [make donations to St Lukes](https://www.stlukestribute.org.uk/funds/wendy-nutbrown/).
+This page is for the memory of Wendy; it provides links to several photo albums to share with friends and family, a link to [Wendy's celebration of life videos](https://www.youtube.com/playlist?list=PLYkDaaZiN_GIXmMJ9_RKuS_qovecTVMKe), a lovely [monologue written by Andy](/monologue/wendy-monologue.pdf), as well as a link to a tribute page to [make donations to St Lukes](https://stlukestribute.org.uk/pages/wendy-nutbrown/).
 
 Wendy shared her love with so many people who she met, befriended, and cherished on her journey. She was the proud Mum of her two boys, James and Stephen, her two bonus girls, Gabi and Grace, and loving wife to her husband, Andrew. 
 
