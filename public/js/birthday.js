@@ -5,7 +5,7 @@
     announcement.innerHTML =
       "<p>We celebrate Wendy's birthday with grateful hearts and happy memories.</p>" +
       "<p>We've collected some special birthday photos together, <a href='https://photos.app.goo.gl/x6tC2n7D4ggVxqWB7' id='extra-album-link'>see them here</a></p>" +
-      "<p><em>If you can, please <a href='https://www.stlukestribute.org.uk/initiatedonation/?firstName=Wendy&lastName=Nutbrown&imageUrl=/media/3731/mum.png&donationsFolderId=31267'>consider a donation to St Lukes in memory of Wendy.</a></em></p>";
+      "<p><em>If you can, please <a href='https://stlukestribute.org.uk/pages/wendy-nutbrown/'>consider a donation to St Lukes in memory of Wendy.</a></em></p>";
     announcement.style.position = 'sticky';
     announcement.style.top = '0';
     announcement.style.left = '0';
